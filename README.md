@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MishaTemam
+- 👋 Hi, I’m @MiftahTemam
 - 👀 I’m interested in computer programming.
 - 🌱 I’m currently teaching on Health Informatics.
 - 💞️ I’m looking to collaborate on how to develop Electronic Medical/Health Record System.
